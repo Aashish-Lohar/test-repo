@@ -1,1 +1,1 @@
-We are learning the gittttt
+We are learning the git
